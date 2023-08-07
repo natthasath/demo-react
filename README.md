@@ -1,4 +1,4 @@
-# demo-react-app
+# 🎉 DEMO React App
 A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 ### 🚀 Setup
