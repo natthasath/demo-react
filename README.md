@@ -1,5 +1,5 @@
 # 🎉 DEMO React App
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
+React is a JavaScript library for building efficient and dynamic user interfaces. With reusable components and a declarative approach, it enhances web app development, user experience, and productivity.
 
 ### 🚀 Setup
 
