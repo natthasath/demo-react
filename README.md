@@ -4,7 +4,7 @@ React is a JavaScript library for building efficient and dynamic user interfaces
 ### 🚀 Setup
 
 ```
-npx create-react-app demo-react-app
+npx create-react-app demo-react-js
 ```
 
 ### 🏆 Run
